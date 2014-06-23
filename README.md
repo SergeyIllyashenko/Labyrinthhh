@@ -1,8 +1,8 @@
-Labyrinthhh
+Labyrinth
 ==========
 
                                       Описание требований к программе
-                                                «Labyrinthhh»
+                                                «Labyrinth»
 
 
                                        1 Общая характеристика программы
